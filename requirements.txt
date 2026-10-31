@@ -1,0 +1,4 @@
+# Expense Tracker — Python Requirements
+# The core program runs 100% using Python's Standard Library (sqlite3, csv, datetime, etc.)
+# Matplotlib is optional for displaying graphical popup charts and exporting chart images (PNG):
+matplotlib>=3.7.0
